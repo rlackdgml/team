@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+  background-color: #f7fff5;
+}
+
+div {
+  margin: auto;
+  width: 55%;
+  font-size: 20px;
+}
+
+/* 본문 내 이미지 요소의 'position' 속성을 'fixed'로 지정 */
+img {
+  margin: 100px;
+  width: 250px;
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  margin: 100px;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
